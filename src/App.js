@@ -1,6 +1,6 @@
-import iTecLogo from './itec.png';
-import haufeLogo from './haufe.png';
-import './App.css';
+import iTecLogo from './itec.png'
+import haufeLogo from './haufe.png'
+import './App.css'
 
 function App() {
   return (
@@ -17,4 +17,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
